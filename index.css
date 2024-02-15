@@ -1,0 +1,28 @@
+h1 {
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+button {
+    background-color: red;
+    color: antiquewhite;
+    font-size: 15px;
+    padding-block: 4px;
+    padding-inline: 9px;
+    margin: 0 auto;
+    display: block;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+}
+a {
+    display: flex;
+    justify-content: center;
+}
+.output{
+    color: green;
+}
